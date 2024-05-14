@@ -1,0 +1,19 @@
+The project is an automated lectures, classes planner for a college(for simplicity sake we are going 
+with less number of variables involved).
+
+5 sections (5 days a week classes)
+3 rooms available
+
+classes
+1- Databases
+2- OOP
+3- Linear Algebra
+4- Civics
+5- Islamic Studies
+6- Digital Logic Design
+
+                                            ____________PLAN____________
+Assign  rooms to sections for lectures in way that 
+-> Every class has all the required credit hours covered for a week(18 credit hours).
+-> Can give breaks to sections incase no room is available, adhering to the above constraint.
+ 
